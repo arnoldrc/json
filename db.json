@@ -47,9 +47,4 @@
             "jerarquia": "0401"
         }
     ],
-    "pagination": {
-        "pageIndex": 0,
-        "pageSize": 0,
-        "totalRows": 0
-    },
 }

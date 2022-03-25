@@ -10,33 +10,6 @@
             "jerarquia": "0101"
         },
         {
-            "idAgrupamiento": 1,
-            "idGrupo": "1,2,36",
-            "grupo": "PREGRADO",
-            "idOrdenamiento": 3,
-            "idOrden": 2,
-            "orden": "PRE-PFA",
-            "jerarquia": "0102"
-        },
-        {
-            "idAgrupamiento": 1,
-            "idGrupo": "1,2,36",
-            "grupo": "PREGRADO",
-            "idOrdenamiento": 4,
-            "idOrden": 36,
-            "orden": "PRE-DISTANCIA",
-            "jerarquia": "0103"
-        },
-        {
-            "idAgrupamiento": 5,
-            "idGrupo": "10,37,38",
-            "grupo": "POSGRADO",
-            "idOrdenamiento": 6,
-            "idOrden": 10,
-            "orden": "POS-PRESENCIAL",
-            "jerarquia": "0201"
-        },
-        {
             "idAgrupamiento": 5,
             "idGrupo": "10,37,38",
             "grupo": "POSGRADO",
@@ -63,24 +36,7 @@
             "orden": "SEG-PRESENCIAL",
             "jerarquia": "0301"
         },
-        {
-            "idAgrupamiento": 9,
-            "idGrupo": "33,39,40",
-            "grupo": "SEGUNDA ESPECIALIDAD",
-            "idOrdenamiento": 11,
-            "idOrden": 39,
-            "orden": "SEG-SEMIPRESENCIAL",
-            "jerarquia": "0302"
-        },
-        {
-            "idAgrupamiento": 9,
-            "idGrupo": "33,39,40",
-            "grupo": "SEGUNDA ESPECIALIDAD",
-            "idOrdenamiento": 12,
-            "idOrden": 40,
-            "orden": "SEG-DISTANCIA",
-            "jerarquia": "0303"
-        },
+       
         {
             "idAgrupamiento": 13,
             "idGrupo": "14",

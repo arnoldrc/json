@@ -1,4 +1,4 @@
-{"programa":[
+{"programa":
 	{
 		"lstItem": [
             {
@@ -50,7 +50,7 @@
 		"userName": "",
 		"serverName": ""
 	}
-  ],
+  ,
   "filial":[
 	{
         "lstItem": [

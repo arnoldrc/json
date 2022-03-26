@@ -51,7 +51,7 @@
 		"serverName": ""
 	}
   ,
-  "filial":[
+  "filial":
 	{
         "lstItem": [
             {
@@ -87,8 +87,8 @@
         "userName": "",
         "serverName": ""
     }
-  ],
-  "escuela":[
+  ,
+  "escuela":
 	{
         "lstItem": [
             {
@@ -124,8 +124,8 @@
         "userName": "",
         "serverName": ""
     }
-  ],
-  "periodo":[
+  ,
+  "periodo":
 	{
         "lstItem": [
             {
@@ -177,8 +177,8 @@
         "userName": "",
         "serverName": ""
     }
-  ],
-  "docente":[
+  ,
+  "docente":
 	{
         "lstItem": [
             {
@@ -258,6 +258,6 @@
         "userName": "",
         "serverName": ""
     }
-  ]
+  
 
 }
